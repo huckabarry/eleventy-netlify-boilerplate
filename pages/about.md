@@ -1,33 +1,30 @@
 ---
 title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.description will be used
+  instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hello, fellow wanderer. I’m Bryan and this is my personal blog, a place where I write short status updates about what’s going on in my life, post photos, and shout into the void. If you’re looking for my planning blog, you can find it [here](https://lowvelocity.org/).
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+I’m an urban planner by profession. For better or worse, I spend a lot of time thinking about environmental psychology, urban design, landscape architecture, human geography, and transportation systems. I like working with maps and design software.
 
-## Our services
+Growing up in poverty had a big impact on my worldview. As it turns out, formative experiences have a way of sticking. Because of that, I spend an arguably unhealthy amount of time thinking about housing, healthcare, and environmental justice. I try to channel that energy productively by volunteering for causes that align with my values.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+At my core, I enjoy creating. Whether that be writing, making music, practicing photography, gardening, cooking, learning web development, or making home improvements, I like to express myself through making things. I consider myself a hobbyist in most of these areas, and a master of none.
 
-### Blue-sky thinking
+Originally from the Great Lakes Region, I’ve called the Pacific Northwest home for going on 10 years now. I’m fiercely proud of my Midwest roots and sometimes suffer intense pangs of nostalgia and longings to return, especially after doom scrolling Zillow listings for a bit.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+That said, I do enjoy the climate and landscapes better here on the West Coast. I like to get outdoors with my young family, so there are a lot of photos of our adventures on this site.
 
-#### Management frameworks
+I love sci-fi movies, but I have a terrible memory for titles and names, so don’t ask me which ones I’ve seen or who my favorite actors are. I also like geeking out about guitar gear and recently built my own Telecaster.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+In 2020, I became an Italian citizen. What started out as a genealogy hobby turned into a decade-long education in Italian bureaucracy. My wife and I sometimes daydream about a part-time life abroad, so I’m interested in connecting with Italians and expats.
 
-##### Regulatory convergence
+This site is hosted on Micro.blog and uses a modified version of the Microwave theme. Some things might be broken from time to time.
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+You can reach me by [email](mailto:bryan.robb@gmail.com), follow my [RSS feed](https://bryans.life/feed.xml), or [subscribe](https://bryans.life/subscribe) to this blog.
